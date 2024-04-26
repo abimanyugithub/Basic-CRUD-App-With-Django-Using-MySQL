@@ -16,5 +16,5 @@ ERROR: Command errored out with exit status 1:
 ```
 > **Solution**
 ```bash
-sudo apt install python3-dev default-libmysqlclient-dev build-essential
+sudo apt-get install python3-dev default-libmysqlclient-dev build-essential pkg-config
 ```
